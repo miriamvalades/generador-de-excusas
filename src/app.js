@@ -76,7 +76,8 @@ let generateExcuse = () => {
     "el veterinario",
     "mi cita de Tinder",
     "mi ex",
-    "mi nutricionista"
+    "mi nutricionista",
+    "una horda de zombis"
   ];
   let action = [
     "ha cogido",
@@ -102,7 +103,6 @@ let generateExcuse = () => {
     "ha hackeado",
     "ha enterrado",
     "ha llegado tarde con",
-    "está de viaje con",
     "me ha recomendado no buscar",
     "me ha recomendado buscar",
     "me ha recomendado no acercarme a",
@@ -125,8 +125,7 @@ let generateExcuse = () => {
     "mis sueños",
     "mis ansias de libertad",
     "mi pin del móvil",
-    "gente tóxica",
-    "mi horóscopo"
+    "gente tóxica"
   ];
   let where = [
     "en la calle",
@@ -149,7 +148,7 @@ let generateExcuse = () => {
     "en la piscina",
     "en la oficina",
     "en el parque de atracciones",
-    "en Año Nuevo",
+    " ",
     " ",
     " ",
     " "
